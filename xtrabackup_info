@@ -1,0 +1,18 @@
+uuid = 477555e2-b816-11ee-8566-080027308074
+name = 
+tool_name = xtrabackup
+tool_command = --host=192.168.1.76 --user=admin --password=... --port=3306 --backup --target-dir=/jovis/backups/copia
+tool_version = 8.0.35-30
+ibbackup_version = 8.0.35-30
+server_version = 8.0.35-0ubuntu0.22.04.1
+start_time = 2024-01-21 04:33:49
+end_time = 2024-01-21 04:33:52
+lock_time = 1
+binlog_pos = filename 'binlog.000018', position '157'
+innodb_from_lsn = 0
+innodb_to_lsn = 21760635
+partial = N
+incremental = N
+format = file
+compressed = N
+encrypted = N
